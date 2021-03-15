@@ -14,8 +14,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/merlin/proprietary/vendor/etc/acdbdata/Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/Hdmi_cal.acdb \
     vendor/motorola/merlin/proprietary/vendor/etc/acdbdata/Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/Headset_cal.acdb \
     vendor/motorola/merlin/proprietary/vendor/etc/acdbdata/Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/Speaker_cal.acdb \
-    vendor/motorola/merlin/proprietary/vendor/firmware/synaptics-boe-s2726-15111801-1f711a-merlin.tdat:$(TARGET_COPY_OUT_VENDOR)/firmware/synaptics-boe-s2726-15111801-1f711a-merlin.tdat \
-    vendor/motorola/merlin/proprietary/vendor/firmware/synaptics-inx-s2726br_t-15111103-1f711a-merlin.tdat:$(TARGET_COPY_OUT_VENDOR)/firmware/synaptics-inx-s2726br_t-15111103-1f711a-merlin.tdat \
+    vendor/motorola/merlin/proprietary/vendor/firmware/synaptics-boe-s2726-16020901-225ad4-merlin.tdat:$(TARGET_COPY_OUT_VENDOR)/firmware/synaptics-boe-s2726-16020901-225ad4-merlin.tdat \
+    vendor/motorola/merlin/proprietary/vendor/firmware/synaptics-inx-s2726br_t-16012301-225ad4-merlin.tdat:$(TARGET_COPY_OUT_VENDOR)/firmware/synaptics-inx-s2726br_t-16012301-225ad4-merlin.tdat \
     vendor/motorola/merlin/proprietary/vendor/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin \
     vendor/motorola/merlin/proprietary/vendor/lib/hw/camera.vendor.msm8916.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/camera.vendor.msm8916.so \
     vendor/motorola/merlin/proprietary/vendor/lib/libactuator_ak7345.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_ak7345.so \
